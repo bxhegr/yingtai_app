@@ -1,7 +1,7 @@
 <template>
   <div style="display: flex; justify-content: center">
     <div style="width: 80%">
-      <h1>貨號</h1>
+      <h1>貨號!!</h1>
       <div style="display: flex">
         <el-input
           v-model="input.id"
